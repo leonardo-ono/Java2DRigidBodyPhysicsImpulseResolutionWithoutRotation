@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="nfe3">
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/RigidBody.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/main/Main.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/RBScene.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/Contact.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/shape/Circle.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/CollisionDetection.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/shape/Shape.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/core/Vec2.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/shape/StaticLine.java</file>
+            <file>file:/G:/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/body/StaticStick.java</file>
+        </group>
+        <group name="war">
+            <file>file:/media/My%20Passport/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/Contact.java</file>
+            <file>file:/media/My%20Passport/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/CollisionDetection.java</file>
+            <file>file:/media/My%20Passport/Leo/algoritmos/Physics/RigidBody_Simulation/TestRigidBodySimulation3/src/br/ol/rb/shape/StaticLine.java</file>
+        </group>
+    </open-files>
+</project-private>
